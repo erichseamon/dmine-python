@@ -18,7 +18,7 @@ GoogleMaps(app)
 
 #@app.route('/')
 #def home():
-#     return render_template('ag.html')
+#     return render_template('landslide.html')
 
 @app.route('/')
 def mapview():
